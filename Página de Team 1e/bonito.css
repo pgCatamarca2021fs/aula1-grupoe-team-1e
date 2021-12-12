@@ -1,0 +1,28 @@
+
+  body {
+ background-image: url("imag/bitcoin4.webp");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center; 
+}
+  
+  h1 {
+    text-align: center;
+    color: #a6a6dd;
+    align-items: center;
+  }
+
+  h2 {
+    color: #a6a6dd;
+  }
+
+  .imagen { 
+       display: flex;
+       align-items: center;
+       margin-bottom: 2rem;
+       margin-top: 2rem;
+       width: 25%;
+       height: auto;
+
+  }
