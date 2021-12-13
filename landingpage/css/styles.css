@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(210deg, #3a342e 15%, #F7931A 100%);
+  background-color: #FFE9D5;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;  
+  align-items: center;
+}
+ 
+h1, h2, p {
+  color: white;
+}
+
+.secciones {
+  display: flex;    
+  align-items: center;
+  justify-content: center;
+}
+
+.imagen {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  width: 50%;
+  height: auto;  
+}
