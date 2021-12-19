@@ -15,16 +15,10 @@
 </ul>
 
 ### Grupo E - Sala 1 - Integrantes
-<ul>
-    <li>Javier Leonardo PEREA</li>
-    <li>Yuliana Yanina ACEVEDO</li>
-    <li>Tomas Agustin AVILA</li>
-    <li>Mario Javier BURGOS</li>
+<ul>    
     <li>Pablo David GIORDANO</li>
     <li>Diego Fabián DI GIORGIO</li>
-    <li>Walter Yamil SINCHES</li>
-    <li>Gonzalo Gabriel SIGAMPA</li>
-    <li>Gustavo Esteban CONTRERAS</li>
+    <li>Walter Yamil SINCHES</li>    
 </ul>
 
 #### Instituto Politécnico Superior de Córdoba - 2021

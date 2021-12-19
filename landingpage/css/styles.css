@@ -1,26 +1,76 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;  
+}
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 body {
-  background: linear-gradient(210deg, #3a342e 15%, #F7931A 100%);
-  background-color: #FFE9D5;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  text-align: center;  
-  align-items: center;
-}
- 
-h1, h2, p {
-  color: white;
+    font-size: 1.4rem;
+    font-family: 'Krub', sans-serif;
+    background: linear-gradient(180deg, #3a342e 15%, #FFC107 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
-.secciones {
-  display: flex;    
-  align-items: center;
-  justify-content: center;
+h1 {
+    font-size: 3.8rem;
+    
 }
 
-.imagen {
-  margin-bottom: 2rem;
-  margin-top: 2rem;
-  width: 50%;
-  height: auto;  
+h2 {
+    font-size: 2.8rem;    
+}
+  
+h3 {
+    font-size: 1.6rem;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #ffc107;
+}
+
+.menu {
+    display: block;
+    text-align: center;    
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 1rem;     
+}
+
+nav a:hover {
+    background-color: #ffc107;
+    color: #212121;
+    border-radius: 5px;
+}
+
+.contenido {
+    background-color: #474442;
+    border-radius: 5px;
+}
+
+.contenido h2,
+.contenido h3,
+.contenido p {
+    margin: 1rem;
+    text-align: center;    
+}  
+
+.inicio,
+.footer {
+    background-color: #282623;  
+     
+}
+
+.card {
+    background-color: #282623;
+    border-radius: 5px;  
+    flex-wrap: wrap;
+    max-width: 430px;
+    margin: 1rem auto;    
 }
